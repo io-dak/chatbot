@@ -1,0 +1,15 @@
+{
+    "name": "dak.io/chatbot",
+    "description": "chatbot",
+    "type": "l",
+    "require": {
+        "php": ">=8.1"
+    },
+    "license": "BSD3.0",
+    "autoload": {
+        "psr-4": {
+            "DakIo\\Chatbot\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
